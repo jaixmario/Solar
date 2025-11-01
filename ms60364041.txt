@@ -1,0 +1,9 @@
+{
+
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+
+  "Domain": "tp.rcmario.dpdns.org",
+
+  "Id": "0fd666e8-0b3d-41ea-a5ef-1c509130bd94"
+
+}
